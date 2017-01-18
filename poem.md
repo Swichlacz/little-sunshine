@@ -75,7 +75,7 @@
     Happy in her brightness
     As draws on the night.
     
-    -- *John Hartley*
-    
+            *John Hartley*
+    
   This [poem](http://www.public-domain-poetry.com/john-hartley/little-sunshine-18036) is from [Public Domain Poetry](http://www.public-domain-poetry.com).
 

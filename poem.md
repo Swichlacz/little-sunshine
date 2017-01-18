@@ -1,4 +1,6 @@
-Winsome, wee and witty,
+## Little Sunshine  
+    
+    _Winsome_, wee and witty,
     Like a little fay,
     Carolling her ditty
     All the livelong day,
@@ -72,4 +74,8 @@ Winsome, wee and witty,
     When life's morn was bright,
     Happy in her brightness
     As draws on the night.
+    
+    -- *John Hartley*
+    
+  This [poem](http://www.public-domain-poetry.com/john-hartley/little-sunshine-18036)is from [Public Domain Poetry](http://www.public-domain-poetry.com).
 

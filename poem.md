@@ -1,6 +1,6 @@
 ## Little Sunshine  
     
-    _Winsome_, wee and witty,
+    Winsome, wee and witty,
     Like a little fay,
     Carolling her ditty
     All the livelong day,
@@ -77,5 +77,5 @@
     
     -- *John Hartley*
     
-  This [poem](http://www.public-domain-poetry.com/john-hartley/little-sunshine-18036)is from [Public Domain Poetry](http://www.public-domain-poetry.com).
+  This [poem](http://www.public-domain-poetry.com/john-hartley/little-sunshine-18036) is from [Public Domain Poetry](http://www.public-domain-poetry.com).
 
